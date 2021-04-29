@@ -9,5 +9,5 @@ A simple program which plays tic-tac-toe with the user. Here are the assumptions
 4. All the squares are numbered row by row starting with 1.
 5. The user inputs their move by entering the number of the square they choose - the number must be valid, i.e., it must be an integer, it must be greater than 0 and less than 10, and it cannot point to a field which is already occupied.
 7. The program checks if the game is over - there are four possible verdicts: the game should continue, or the game ends with a tie, your win, or the computer's win.
-8. the computer responds with its move and the check is repeated.
+8. The computer responds with its move and the check is repeated.
 9. A random field choice is made by the computer.
